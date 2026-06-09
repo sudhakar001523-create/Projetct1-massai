@@ -1,3 +1,6 @@
 print("A")
 print("b")
 print("c")
+print("sudhakar")
+print("bussinessman")
+print("biker")
